@@ -2,37 +2,29 @@
 # A script that pushes my csv and updates my files
 CWD=$(pwd)
 
-cd ~/OneDrive/Quarto/CV_Quarto
+cd ~/Projects/Resume
 
-quarto render resume_alex.qmd --to pdf
+quarto render resume.qmd --to pdf
 
-mv resume_alex.pdf cv.pdf
+cp resume.pdf ~/Projects/website/static/files/Morris_Resume.pdf
 
-cp cv.pdf ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site/files
-
-cp cv.pdf ~/Documents/Application_Materials/
-
-cp cv.pdf ~/Library/Mobile\ Documents/com\~apple\~CloudDocs/Documents/
-
-quarto render ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site
-
-cd ~/Library/CloudStorage/OneDrive-Personal/Quarto/personal_quarto_site
+cd ~/Projects/website
 
 git pull
 
 git add .
 
-git commit -m 'update cv '$(date +%d.%m.%y-%H:%M:%S)
+git commit -m 'update resume '$(date +%d.%m.%y-%H:%M:%S)
 
 git push
 
-cd ~/OneDrive/Quarto/CV_Quarto
+cd ~/Projects/Resume
 
 git pull
 
 git add .
 
-git commit -m 'update cv '$(date +%d.%m.%y-%H:%M:%S)
+git commit -m 'update resume '$(date +%d.%m.%y-%H:%M:%S)
 
 git push
 

@@ -25,7 +25,7 @@ format:
 \begin{huge}\begin{center}{\bf Andrew Morris, PhD}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}amorris3@uoregon.edu ∙ \href{https://ahmorris.org}{Personal Website} ∙ \href{https://github.com/amorris28}{Github} ∙ \href{https://www.linkedin.com/in/ andrew-morris-71033a41/}{LinkedIn}
+\begin{center}amorris3@uoregon.edu ∙ \href{https://ahmorris.org}{Personal Website} ∙ \href{https://github.com/amorris28}{Github} ∙ \href{https://www.linkedin.com/in/andrew-morris-71033a41/}{LinkedIn}
 \end{center}
 \vspace{15pt}
 

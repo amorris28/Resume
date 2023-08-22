@@ -2,6 +2,7 @@
 format: 
   pdf: 
     documentclass: article
+    papersize: A4
     geometry:
       - top=10mm
       - left=15mm
@@ -34,18 +35,25 @@ format:
   {\bf EDUCATION}
   \vspace{3pt}
   \hrule
+  
   {\bf PhD Biology}, (2022) {\it University of Oregon} \hfill Eugene, OR
+  
 \end{large}
 
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
+
     {\bf MS Soil Science}, (2017) {\it The Pennsylvania State University} \hfill State College, PA
+    
 \end{large}
 
 <!-- EDUCATION: 3RD BULLET -->
 \begin{large}
+
 {\bf BS Plant Sciences}, (2014) {\it Cornell University} \hfill Ithaca, NY
+
 \end{large}
+
 \vspace{3pt}
 
 <!-- SKILLS -->
@@ -66,43 +74,40 @@ format:
 \begin{large}{\bf EXPERIENCE}
   \vspace{3pt}
   \hrule
-  \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://www.uoregon.edu}{University of Oregon}}\end{flushleft}
-    \begin{flushright}Aug 2017-Present)\end{flushright}
-  \end{multicols}
+  
+  {\bf \href{https://www.uoregon.edu}{University of Oregon}} \hfill Aug 2017-Present
+  
   \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Post-doctoral Scholar (Mar 2022-Present}\end{flushleft}
-    \begin{flushright}Eugene, OR, USA\end{flushright}\end
-  {multicols}
-    \begin{multicols}{2}
-    \begin{flushleft}\textit{NSF Graduate Research Fellow (Aug 2017-Mar 2022)}\end{flushleft}
-    \begin{flushright}\end{flushright}\end{multicols}
+  
+  \textit{Post-doctoral Scholar (Mar 2022-Present)} \hfill Eugene, OR, USA
+  
+  \vspace{-0.17cm}
+
+  \textit{NSF Graduate Research Fellow (Aug 2017-Mar 2022)}
+  
 \end{large}
-\vspace{-0.16cm}
+
 * Developed the ability to think critically, work independently, and formulate research questions
-* Maintained data pipelines using GNU make, git, and slurm in a HPC cloud computing environment 
-* Generated insights from large, heterogeneous data sets using machine learning, multivariate statistics, and mixed models
 * Published multiple scientific papers in peer-reviewed journals
-* Mentored early career scientists in data analysis with R as well as written and oral communication
 * Authored and co-authored funded grant proposals from local and national institutions including a $3 million (USD) award
+* Generated insights from large, heterogeneous data sets using machine learning, multivariate statistics, and mixed models
 * Presented research results to diverse audiences including the general public, industry partners, and scientific specialists
+* Mentored early career scientists in data analysis with R as well as written and oral communication
+* Maintained data pipelines using GNU make, git, and slurm in a HPC cloud computing environment 
 
 \vspace{7pt}
 
 <!-- EXPERIENCE : 2ND BULLET -->
 \begin{large}
-  \begin{multicols}{2}
-    \begin{flushleft}{\bf \href{https://www.psu.edu/}{The Pennsylvania State University}}\end{flushleft}
-    \begin{flushright}Aug 2015-July 2017\end{flushright}
-  \end{multicols}
+
+  {\bf \href{https://www.psu.edu/}{The Pennsylvania State University}} \hfill Aug 2015-Jul 2017
+
   \vspace{-0.17cm}
-  \begin{multicols}{2}
-    \begin{flushleft}\textit{Graduate Research Assistant}\end
-    {flushleft}\begin{flushright}State College, PA, USA\end{flushright}
-  \end{multicols}
+  
+  \textit{Graduate Research Assistant} \hfill State College, PA, USA
+  
 \end{large}
-\vspace{-0.16cm}
+
 * Conducted industry-partnered experiments with interdisciplinary research teams
 * Delivered data analysis results that guided on-farm practices to balance profitability with environmental impacts using sustainable agriculture
 * Presented research to farmers, industry partners, and scientists at farmer advisory board meetings, on-farm field days, and scientific meetings
@@ -132,18 +137,23 @@ format:
 {\bf PROJECT PORTFOLIO}
   \vspace{3pt}
   \hrule
-    \textit{\href{https://github.com/amorris28/artificial_ecosystem_selection/}{Prediction of greenhouse gas emissions from soil microbiome composition}} \hfill
+  
+  \textit{\href{https://github.com/amorris28/artificial_ecosystem_selection/}{Prediction of greenhouse gas emissions from soil microbiome composition}} \hfill
     July 2023
+    
   \vspace{-0.17cm}
 \end{large}
-* Conducted an artificial selection experiment to identify microbial communities that perform methane consumption. Estimated microbial community performance using regression and beta-binomial models.
+* Conducted an artificial selection experiment to develop microbiomes that perform a high rate of methane consumption.
+* Modeled microbial community performance using regression and beta-binomial models.
 
 \vspace{7pt}
 
 <!-- PERSONAL PROJECTS : 2ND BULLET -->
 \begin{large}
+
   \textit{\href{https://github.com/amorris28/microbial_gwas/}{Applying genotype-phenotype mapping to microbial ecosystem functions}} \hfill
     March 2020
+    
   \vspace{-0.17cm}
 \end{large}
 * Demonstrated the use of agnostic search and controlling for data stratification to identify microorganisms associated with important ecosystem functions such as greenhouse gas emissions.

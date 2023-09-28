@@ -6,7 +6,7 @@ cd ~/Projects/Resume
 
 quarto render resume.qmd --to pdf
 
-cp resume.pdf ~/Projects/website/static/files/Morris_Resume.pdf
+cp resume.pdf ~/Projects/website/static/uploads/Morris_Resume.pdf
 
 cd ~/Projects/website
 

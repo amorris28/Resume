@@ -26,9 +26,11 @@ format:
 \begin{huge}\begin{center}{\bf Andrew Morris, PhD}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}amorris3@uoregon.edu ∙ \href{https://ahmorris.org}{Personal Website} ∙ \href{https://github.com/amorris28}{Github} ∙ \href{https://www.linkedin.com/in/andrew-morris-71033a41/}{LinkedIn}
+\begin{center}andrewmorris@mailbox.org ∙ \href{https://ahmorris.org}{Personal Website} ∙ \href{https://github.com/amorris28}{Github} ∙ \href{https://www.linkedin.com/in/andrew-morris-71033a41/}{LinkedIn}
 \end{center}
-\vspace{15pt}
+\begin{center}Groton, Connecticut
+\end{center}
+<!-- \vspace{15pt} -->
 
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
@@ -61,14 +63,14 @@ format:
   \vspace{3pt}
   \hrule
 \end{large}
-**Languages and Tools**: R, Bash, Git, Python, GNU Make
+**Languages and Tools**: R, Bash, Git, Python, GNU Make, Linux
 
 **Selected Coursework**: 
 \vspace{-0.16cm}
 
 * \textit{Machine Learning for Image Analysis} - Introduction to Deep Neural Networks using Keras and Tensorflow
 * \textit{Advanced Biological Statistics I \& II} - Core concepts and methods in frequentist and Bayesian analysis using R and Stan
-* \textit{Strategies and Techniques for Analyzing Microbial Community Population Structures} - Heterogeneous data structures, exploratory statistics, and visualization
+* \textit{Strategies and Techniques for Analyzing Microbial Community Population Structures} - Bioinformatics and statistical training to practitioners of molecular microbial ecology and genomics
 
 <!-- EXPERIENCE : 1ST BULLET-->
 \begin{large}{\bf EXPERIENCE}
@@ -90,7 +92,8 @@ format:
 * Developed the ability to think critically, work independently, and formulate research questions
 * Published multiple scientific papers in peer-reviewed journals
 * Authored and co-authored funded grant proposals from local and national institutions including a $3 million (USD) award
-* Generated insights from large, heterogeneous data sets using machine learning, multivariate statistics, and mixed models
+<!-- * Generated insights from large, heterogeneous data sets using machine learning, multivariate statistics, and mixed models -->
+* Analyzed data from high-throughput next-generation sequencing technologies including Illumina shotgun metagenomics and amplicon sequences
 * Presented research results to diverse audiences including the general public, industry partners, and scientific specialists
 * Mentored early career scientists in data analysis with R as well as written and oral communication
 * Maintained data pipelines using GNU make, git, and slurm in a HPC cloud computing environment 

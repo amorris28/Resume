@@ -72,37 +72,52 @@ format:
 * \textit{Advanced Biological Statistics I \& II} - Core concepts and methods in frequentist and Bayesian analysis using R and Stan
 * \textit{Strategies and Techniques for Analyzing Microbial Community Population Structures} - Bioinformatics and statistical training to practitioners of molecular microbial ecology and genomics
 
-<!-- EXPERIENCE : 1ST BULLET-->
+
+<!-- EXPERIENCE : 1ST BULLET -->
+
 \begin{large}{\bf EXPERIENCE}
+
   \vspace{3pt}
   \hrule
   
-  {\bf \href{https://www.uoregon.edu}{University of Oregon}} \hfill Aug 2017-Dec 2023
-  
-  \vspace{-0.17cm}
-  
-  \textit{Post-doctoral Scholar (Mar 2022-Present)} \hfill Eugene, OR, USA
-  
-  \vspace{-0.17cm}
+  {\bf \href{https://www.uoregon.edu}{University of Oregon}} \hfill Mar 2022-Dec 2023
 
-  \textit{NSF Graduate Research Fellow (Aug 2017-Mar 2022)}
+  \vspace{-0.17cm}
+  
+  \textit{Postdoctoral Scholar} \hfill Eugene, OR, USA
   
 \end{large}
 
 * Published multiple scientific papers in peer-reviewed journals
+* Presented at an international conference
+* Organized an annual project meeting
+* Developed theory on the evolution of microbiomes and host traits
+
+<!-- \vspace{7pt} -->
+
+<!-- EXPERIENCE : 2ND BULLET-->
+\begin{large}
+  
+  {\bf \href{https://www.uoregon.edu}{University of Oregon}} \hfill Aug 2017-Mar 2022
+  
+  \vspace{-0.17cm}
+
+  \textit{NSF Graduate Research Fellow} \hfill Eugene, OR, USA
+  
+\end{large}
+
 * Authored and co-authored funded grant proposals including a $3 million (USD) award from NSF
-<!-- * Designed and carried out laboratory experiments to study soil microbiomes -->
-* Performed DNA extraction and library prep for Illumina sequencing
-* Analyzed data from next-generation sequencing (NGS) technologies including Illumina shotgun metagenomics and amplicon sequencing
+<!-- * Performed DNA extraction and library prep for Illumina sequencing -->
+* Analyzed next-gen sequencing (NGS) data from Illumina shotgun metagenomics and amplicon sequencing
 * Developed bioinformatics pipelines using sequencing databases and software including BLAST, Bowtie, and SAMtools
 * Performed quality control, error correction, mapping, assembly, and annotation on short read sequencing data
 * Presented research results to diverse audiences including the general public, industry partners, and scientific specialists
-* Mentored early career scientists in data analysis with R as well as written and oral communication
+<!-- * Mentored early career scientists in data analysis with R as well as written and oral communication -->
 * Maintained data pipelines using GNU make, git, and slurm in a HPC cloud computing environment
 
-\vspace{7pt}
+<!-- \vspace{4pt} -->
 
-<!-- EXPERIENCE : 2ND BULLET -->
+<!-- EXPERIENCE : 3RD BULLET -->
 \begin{large}
 
   {\bf \href{https://www.psu.edu/}{The Pennsylvania State University}} \hfill Aug 2015-Jul 2017
@@ -118,9 +133,9 @@ format:
 * Delivered data analysis results that guided on-farm practices to balance profitability with environmental impacts using sustainable agriculture
 * Presented research to farmers, industry partners, and scientists at farmer advisory board meetings, on-farm field days, and scientific meetings
 
-\vspace{7pt}
+<!-- \vspace{4pt} -->
 
-<!-- EXPERIENCE : 3RD BULLET -->
+<!-- EXPERIENCE : 4TH BULLET -->
 \begin{large}
   \begin{multicols}{2}
     \begin{flushleft}{\bf \href{https://www.udel.edu/}{University of Delaware}}\end{flushleft}
@@ -152,7 +167,7 @@ format:
 * Conducted an artificial selection experiment to develop microbiomes that perform a high rate of methane consumption.
 * Modeled microbial community performance using regression and beta-binomial models.
 
-\vspace{7pt}
+<!-- \vspace{7pt} -->
 
 <!-- PERSONAL PROJECTS : 2ND BULLET -->
 \begin{large}
@@ -164,7 +179,7 @@ format:
 \end{large}
 * Demonstrated the use of agnostic search and controlling for data stratification to identify microorganisms associated with important ecosystem functions such as greenhouse gas emissions.
 
-\vspace{7pt}
+<!-- \vspace{7pt} -->
 
 <!-- PERSONAL PROJECTS : 3RD BULLET -->
 \begin{large}

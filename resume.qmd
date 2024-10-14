@@ -241,6 +241,6 @@ format:
   \vspace{-0.17cm}
 \end{large}
 
- * Oleksandr Frei, University of Oslo
- * Prof. Brendan Bohannan, University of Oregon, bohannan@uoregon.edu +1 
- * Prof. Jason Kaye, Penn State University, jpk12@psu.edu +1 
+ * Oleksandr Frei, Supervisor, University of Oslo, oleksandr.frei@medisin.uio.no Tel: +47 417 94 331
+ * Prof. Brendan Bohannan, University of Oregon, bohannan@uoregon.edu Tel: +1 541 346 4883
+ * Prof. Jason Kaye, Penn State University, jpk12@psu.edu Tel: +1 814 863 1614

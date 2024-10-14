@@ -86,7 +86,7 @@ format:
  \item Tested models predicting age of diagnosis for cancer, dementia, and cardiovascular disease using genetic and clinical data from Norwegian public health registries and biobanks 
  \item Developed software packages to standardize risk prediction for multiple diseases across programming languages (R, Python, Matlab)
  \item Implemented models using containerized software (Docker, Singularity) in a high-performance cloud computing environment
- \item Organized the 2024 Bioinformatics Workshop Week in Oslo, Norway with 11 workshops, and over 100 participants
+ \item Organized the 2024 Bioinformatics Workshop Week in Oslo, Norway with 11 workshops and over 100 participants
 \end{itemize}
 }
 

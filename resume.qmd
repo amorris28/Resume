@@ -30,7 +30,7 @@ format:
 \end{center}
 \begin{center}Located in Oslo, Norway
 \end{center}
-\vspace{10pt}
+\vspace{5pt}
 
 
 

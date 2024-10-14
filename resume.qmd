@@ -28,9 +28,9 @@ format:
 <!-- CONTACT INFO -->
 \begin{center}andrewmorris@mailbox.org ∙ \href{https://ahmorris.org}{Personal Website} ∙ \href{https://github.com/amorris28}{Github} ∙ \href{https://www.linkedin.com/in/andrew-morris-71033a41/}{LinkedIn}
 \end{center}
-<!-- \begin{center}Located in Groton, Connecticut -->
-<!-- \end{center} -->
-<!-- \vspace{15pt} -->
+\begin{center}Located in Oslo, Norway
+\end{center}
+\vspace{10pt}
 
 
 
@@ -41,25 +41,25 @@ format:
   \hrule
   \vspace{10pt}
   
-  {\bf PhD Biology}, (2022) {\it University of Oregon} \hfill Eugene, OR
+  {\bf PhD Biology}, (2022) {\it University of Oregon} \hfill Eugene, OR, USA
   
 \end{large}
 
-\vspace{7pt}
+\vspace{5pt}
 
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
 
-    {\bf MS Soil Science}, (2017) {\it The Pennsylvania State University} \hfill State College, PA
+    {\bf MS Soil Science}, (2017) {\it The Pennsylvania State University} \hfill State College, PA, USA
     
 \end{large}
 
-\vspace{7pt}
+\vspace{5pt}
 
 <!-- EDUCATION: 3RD BULLET -->
 \begin{large}
 
-{\bf BS Plant Sciences}, (2014) {\it Cornell University} \hfill Ithaca, NY
+{\bf BS Plant Sciences}, (2014) {\it Cornell University} \hfill Ithaca, NY, USA
 
 \end{large}
 
@@ -90,7 +90,7 @@ format:
 \end{itemize}
 }
 
-\vspace{17pt}
+\vspace{15pt}
 
 <!-- EXPERIENCE : 2ND BULLET-->
 
@@ -112,7 +112,7 @@ format:
 \end{itemize}
 }
 
-\vspace{17pt}
+\vspace{15pt}
 
 <!-- EXPERIENCE : 4TH BULLET -->
 
@@ -133,7 +133,7 @@ format:
 \end{itemize}
 }
 
-\vspace{17pt}
+\vspace{15pt}
 
 <!-- EXPERIENCE : 3RD BULLET-->
 
@@ -149,13 +149,13 @@ format:
 \parbox{400pt}{
   \begin{itemize}
 \item Received multiple grants and awards including a \$3 million (USD) grant and a 5-year research fellowship from the U.S. National Science Foundation
-\item Developed bioinformatic pipelines for the analysis of microbiome data in a cloud computing environment using bash, Python, R, and slurm.
+\item Developed bioinformatic pipelines for the analysis of microbiome data in a cloud computing environment using bash, Python, R, and slurm
 \item Supervised prospective PhD students in lab work, data analysis, and communication
 \item Instructor for courses in introductory biology, genetics, and scientific computing
 \end{itemize}
 }
 
-\vspace{17pt}
+\vspace{15pt}
 
 <!-- EXPERIENCE : 5TH BULLET-->
 

@@ -193,7 +193,7 @@ format:
 
 **English**: Excellent skills, both written and spoken (mother tongue)
 
-**Norwegian**: Basic understanding both written and oral. Have taken 3 months of classes at Alfaskolen at the A0-A2 level. Highly motivated to continue classes (starting B1 in the winter) and self-sudy.
+**Norwegian**: Basic understanding both written and oral. Completed courses to A2 level. Highly motivated to continue studying.
 
 \vspace{30pt}
 
@@ -206,11 +206,11 @@ format:
 
 **Languages and Tools**
 
- * Expert in data processing, modeling, and plotting using R
- * Experienced with version control using git, Github.
- * Bash, Unix, cloud computing systems (slurm)
- * Basic proficiency in Python
- * GNU make for workflow management
+ * **R** - Expert in data processing, modeling, plotting and package development
+ * **Python** - Basic proficiency in data processing, scripting and package development.
+ * **Collaboration** - Experienced with version control using git, Github.
+ * **Computing** - Proficiency in Bash, Unix, cloud computing systems (Slurm)
+ * **Workflow managemnet** - Intermediate proficiency in GNU Make
 
   \vspace{10pt}
 
@@ -218,7 +218,7 @@ format:
 
  * Skilled in communicating both verbal and written to diverse stakeholders
  * Comfortable leading project teams and organizing workshops
- * Supervised multiple trainees and taught courses
+ * Supervised multiple trainees and taught courses at multiple levels
  
   \vspace{10pt}
 
@@ -232,6 +232,7 @@ format:
 \vspace{30pt}
 
 <!-- REFERENCES -->
+<!--
 \begin{large}
 {\bf REFERENCES}
   \vspace{3pt}
@@ -241,6 +242,7 @@ format:
   \vspace{-0.17cm}
 \end{large}
 
- * Oleksandr Frei, Supervisor, University of Oslo, oleksandr.frei@medisin.uio.no Tel: +47 417 94 331
+ * Oleksandr Frei, Researcher, University of Oslo, oleksandr.frei@medisin.uio.no Tel: +47 417 94 331
  * Prof. Brendan Bohannan, University of Oregon, bohannan@uoregon.edu Tel: +1 541 346 4883
  * Prof. Jason Kaye, Penn State University, jpk12@psu.edu Tel: +1 814 863 1614
+-->

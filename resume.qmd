@@ -23,13 +23,13 @@ format:
         \setlength{\columnsep}{3em}
 ---
 <!-- TITLE -->
-\begin{huge}\begin{center}{\bf Andrew Morris, PhD}\end{center}\end{huge}
+\begin{huge}\begin{center}{\bf Andrew Hayden Morris}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
 \begin{center}andrewmorris@mailbox.org ∙ \href{https://ahmorris.org}{Personal Website} ∙ \href{https://github.com/amorris28}{Github} ∙ \href{https://www.linkedin.com/in/andrew-morris-71033a41/}{LinkedIn}
 \end{center}
-\begin{center}Located in Oslo, Norway
-\end{center}
+<!-- \begin{center}Located in Oslo, Norway -->
+<!-- \end{center} -->
 \vspace{5pt}
 
 
@@ -45,7 +45,7 @@ format:
   
 \end{large}
 
-\vspace{5pt}
+<!-- \vspace{5pt} -->
 
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
@@ -54,7 +54,7 @@ format:
     
 \end{large}
 
-\vspace{5pt}
+<!-- \vspace{5pt} -->
 
 <!-- EDUCATION: 3RD BULLET -->
 \begin{large}
@@ -83,10 +83,30 @@ format:
 \end{large}
 \parbox{400pt}{
   \begin{itemize}
- \item Tested models predicting age of diagnosis for cancer, dementia, and cardiovascular disease using genetic and clinical data from Norwegian public health registries and biobanks 
- \item Developed software packages to standardize risk prediction for multiple diseases across programming languages (R, Python, Matlab)
- \item Implemented models using containerized software (Docker, Singularity) in a high-performance cloud computing environment
- \item Organized the 2024 Bioinformatics Workshop Week in Oslo, Norway with 11 workshops and over 100 participants
+ \item Modeled age-of-onset for cancer using genetic and clinical data from Norwegian health registries across thousands of subjects, to be integrated into precision medicine platforms in the Norwegian health system.
+ \item Developed a software package for individualized risk prediction across platforms (R, Python, Matlab).
+ \item Supported collaborative data infrastructure projects integrating multiple patient registries.
+ \item Organized the 2024 Oslo Bioinformatics Workshop Week, fostering collaboration among over 100 participants.
+\end{itemize}
+}
+
+\vspace{15pt}
+
+<!--EXPERIENCE : 1ST BULLET -->
+
+\begin{large}
+  {\bf Visiting Scholar}
+  \hfill Sep 2022
+
+  \vspace{-0.17cm}
+
+  Department of Biotechnology and Food Science, NTNU
+  \hfill Trondheim, Norway
+  
+\end{large}
+\parbox{400pt}{
+  \begin{itemize}
+ \item Compared recirculating aquaculture systems in Oregon and Trondheim; collected DNA from water and zebrafish for microbiome research.
 \end{itemize}
 }
 
@@ -107,33 +127,13 @@ format:
 
 \parbox{400pt}{
   \begin{itemize}
-\item Analyzed the heritability of microbiomes across humans and other hosts, published in \textit{Nature Microbiology}
-\item Organized Symbiosis Theory Workshop with international collaborators in Eugene, OR, USA
+\item Investigated the impact of antibiotic treatment and stocking density on zebrafish fry; managed data processing, conducted analyses, and presented insights to collaborators.
+\item Established data collection protocols, managed and cleaned datasets from dozens of published reports on microbiome heritability in animals, developed and conducted analyses, and presented findings in \textit{Nature Microbiology}.
 \end{itemize}
 }
 
 \vspace{15pt}
 
-<!-- EXPERIENCE : 4TH BULLET -->
-
-\begin{large}
-
-  {\bf Visiting Scholar} \hfill Sep 2022
-  
-  \vspace{-0.17cm}
-
-  Department of Biotechnology and Food Science, NTNU \hfill Trondheim, Norway
-  
-\end{large}
-
-\parbox{400pt}{
-  \begin{itemize}
-
-\item Conducted sampling of water and zebrafish from aquaculture facilities for DNA extraction and sequencing of environmental and host-associated microbiome DNA
-\end{itemize}
-}
-
-\vspace{15pt}
 
 <!-- EXPERIENCE : 3RD BULLET-->
 
@@ -148,10 +148,10 @@ format:
 
 \parbox{400pt}{
   \begin{itemize}
-\item Received multiple grants and awards including a \$3 million (USD) grant and a 5-year research fellowship from the U.S. National Science Foundation
-\item Developed bioinformatic pipelines for the analysis of microbiome data in a cloud computing environment using bash, Python, R, and slurm
-\item Supervised prospective PhD students in lab work, data analysis, and communication
-\item Instructor for courses in introductory biology, genetics, and scientific computing
+\item Integrated datasets from collaborators across dozens of field sites in Brazil and Gabon on soil characteristics and methane production.
+\item Designed and conducted laboratory experiments investigating methane production in soil, integrating results with field data for publications in scientific journals and presentations at international meetings.
+\item Insights from laboratory experiments contributed to the award of a \$3 million (USD) grant from the U.S. National Science Foundation.
+\item Supervised students and taught courses in biology and scientific computing.
 \end{itemize}
 }
 
@@ -173,9 +173,8 @@ format:
 
 \parbox{400pt}{
   \begin{itemize}
-\item Conducted field trials with industry partners at research stations and on farms to test strategies to reduce nutrient losses
-\item Delivered data analysis results using linear mixed models and machine learning (random forests) in R that guided on-farm practices to balance profitability with environmental impacts
-\item Presented results to diverse stakeholders including industry partners, farmers, and scientists
+\item Worked with industry partners to design field trials at research stations and on farms to test strategies for enhancing nutrient management, using R to deliver insights that balanced profitability and environmental impact.
+\item Presented recommendations to industry partners, farmers, and scientists to facilitate informed decision-making.
 \end{itemize}
 }
 
@@ -193,7 +192,7 @@ format:
 
 **English**: Excellent skills, both written and spoken (mother tongue)
 
-**Norwegian**: Basic understanding both written and oral. Completed courses to A2 level. Highly motivated to continue studying.
+**Norwegian**: Basic understanding both written and oral. Completed courses to A2 level and currently working on B1. Continuing to study every day.
 
 \vspace{30pt}
 
@@ -210,7 +209,7 @@ format:
  * **Python** - Basic proficiency in data processing, scripting and package development.
  * **Collaboration** - Experienced with version control using git, Github.
  * **Computing** - Proficiency in Bash, Unix, cloud computing systems (Slurm)
- * **Workflow managemnet** - Intermediate proficiency in GNU Make
+ * **Workflow management** - Intermediate proficiency in GNU Make
 
   \vspace{10pt}
 
@@ -222,12 +221,12 @@ format:
  
   \vspace{10pt}
 
-**Selected Coursework**
+<!-- **Selected Coursework** -->
 
-* Genome-Wide Association Studies
-* Machine Learning for Image Analysis
-* Strategies and Techniques for Analyzing Microbial Community Population Structures
-* Advanced Biological Statistics I \& II
+<!-- * Genome-Wide Association Studies -->
+<!-- * Machine Learning for Image Analysis -->
+<!-- * Strategies and Techniques for Analyzing Microbial Community Population Structures -->
+<!-- * Advanced Biological Statistics I \& II -->
 
 \vspace{30pt}
 

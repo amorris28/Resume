@@ -82,10 +82,10 @@ format:
 \end{large}
 \parbox{400pt}{
   \begin{itemize}
- \item Built data pipelines for processing genetic and clinical data from Norwegian health registries across thousands of subjects for integration into precision medicine platforms
- \item Developed software package for individualized risk prediction to automate testing and validation workflows
- \item Led collaborative data infrastructure projects integrating multiple patient registries, managing data contracts and quality standards
- \item Organized the 2024 Oslo Bioinformatics Workshop Week, coordinated technical workflows for over 100 participants
+ \item Analyzed large-scale datasets from Norwegian health registries combining genetic data with electronic health records to model age of onset for disease across tens of thousands of subjects
+ \item Developed clear visualizations and statistical models for individualized risk prediction
+ \item Collaborated with domain experts in oncology, genetics, and epidemiology to define hypotheses and develop statistical analyses
+ \item Supported the development of a precision medicine platform to be integrated into the Norwegian healthcare system
 \end{itemize}
 }
 
@@ -108,9 +108,10 @@ format:
 
 \parbox{400pt}{
   \begin{itemize}
-\item Built data pipelines to analyze the impact of environmental factors (antibiotic treatment, stocking density) on aquaculture facilities
+\item Analyzed aquaculture datasets investigating the impact of environmental factors (antibiotic treatment, stocking density) on fish health and growth outcomes
 \item Conducted comparative analysis of recirculating aquaculture systems between Oregon and Norwegian facilities, established data collection protocols for water quality and fish health monitoring
-\item Managed and processed datasets from dozens of published reports on animal microbiomes, developed and conducted analyses, and presented findings in \textit{Nature Microbiology}
+\item Conducted meta-analysis of 50+ unstructured datasets from published reports on animal microbiomes and presented findings in \textit{Nature Microbiology}
+\item Collaborated with international teams of biologists, aquaculture experts, and data scientists to translate research questions into analytical approaches
 \end{itemize}
 }
 
@@ -130,9 +131,10 @@ format:
 
 \parbox{400pt}{
   \begin{itemize}
-\item Integrated datasets from dozens of sites across Brazil and Gabon on soil characteristics, biological data, and methane production with laboratory measurements for environmental monitoring
-\item Developed automated data processing workflows that transformed raw soil and gas measurements into actionable insights for climate research
-\item Created insights from data pipelines that contributed to securing \$3 million USD in funding from the U.S. National Science Foundation
+\item Analyzed environmental datasets from dozens of field sites across Brazil and Gabon, identifying patterns in soil characteristics and greenhouse gas emissions
+\item Developed statistical models integrating laboratory experiments with field observations
+\item Uncovered insights that contributed to \$3 million USD in funding from the U.S. National Science Foundation
+\item Collaborated with interdisciplinary teams of ecologists, microbiologists, and soil scientists in Brazil, Gabon, and the US
 \end{itemize}
 }
 
@@ -154,14 +156,46 @@ format:
 
 \parbox{400pt}{
   \begin{itemize}
-\item Collaborated with agricultural industry partners to design and implement data collection systems at research stations and commercial farms
-\item Built R-based analytics pipelines that processed farm data to optimize nutrient management strategies
-\item Delivered data-driven recommendations for farmers and agricultural stakeholders balancing profitability with environmental sustainability
+\item Collaborated with agricultural industry partners to design and implement experiments at research stations and on commercial farms
+\item Developed statistical models to understand the relationship between on-farm practices and environmental impacts through nutrient pollution and greenhouse gas emissions
+\item Presented data-driven recommendations to farmers, industry partners, and extension agents to facilitate informed decision making
 \end{itemize}
 }
 
 
 {{< pagebreak >}}
+
+<!-- SKILLS -->
+\begin{large}{\bf TECHNICAL SKILLS}
+  \vspace{3pt}
+  \hrule
+  \vspace{10pt}
+\end{large}
+
+**Statistical Analysis \& Programming**
+
+ * **R** - Expert level: statistical modeling, data manipulation, visualization (ggplot2) and package development
+ * **Python** - Intermediate: Proficient in data processing, statistical analysis and scripting
+ * **SQL** - Basic proficiency in queries, syntax and database concepts; extensive experience with equivalent data manipulation in R (dplyr)
+ * **Statistical Methods** - Extensive experience with regression modeling, mixed-effects models, multivariate analysis, and experimental design
+
+  \vspace{10pt}
+ 
+**Data Visualization \& Communication**
+
+ * **Visualization** - Advanced skills with ggplot2, creating publication-quality graphics and interactive plots
+ * **Data Storytelling** - Experienced in translating complex statistical findings for diverse audiences
+ * **Technical Writing** - Skilled in documenting analytical methods and presenting results in scientific publications
+
+  \vspace{10pt}
+ 
+**Data Management \& Collaboration**
+
+ * **Version Control** -  Experienced with Git and GitHub for collaborative analysis projects
+ * **Cloud Platforms** - Experienced with high-performance computing environments (Slurm, Tjenester for Sensitive Data)
+ * **Unix/Bash** - Proficient in command-line tools and shell scripting for automation
+
+\vspace{30pt}
 
 <!-- LANGUAGES -->
 \begin{large}
@@ -174,42 +208,10 @@ format:
 
 **English**: Native speaker with excellent written and verbal communication
 
-**Norwegian**: Completed formal A1 and A2 courses with structued textbook study through B1/B2. Daily practice in reading, writing, listening, and speaking.
+**Norwegian**: Completed formal A1 and A2 courses with structured textbook study through B1/B2. Daily practice in reading, writing, listening, and speaking.
 
-\vspace{30pt}
 
-<!-- SKILLS -->
-\begin{large}{\bf TECHNICAL SKILLS}
-  \vspace{3pt}
-  \hrule
-  \vspace{10pt}
-\end{large}
 
-**Data Engineering \& Analytics**
-
- * **R** - Expert in data processing, statistical modeling, plotting and package development
- * **Python** - Proficient in data processing, pipeline automation and package development
- * **Git/Github** - Experienced with version control and collaborative development
-
-  \vspace{10pt}
- 
-**Infrastructure \& Tools**
-
- * **Cloud Computing** - Experienced with cloud platforms and distributed computing systems (Slurm, Tjenester for Sensitive Data)
- * **Workflow management** - Intermediate proficiency in GNU Make and automated pipeline orchestration
- * **Docker \& Containerization** - Experience with containerized development environments
- * **Unix/Bash** - Proficient in command-line tools and shell scripting for automation
-
-  \vspace{10pt}
-
-**Leadership \& Communication**
-
- * Proven ability to translate complex technical concepts for both technical and non-technical stakeholders
- * Experience leading cross-functional project teams and managing international collaborations
- * Skilled in workshop organization and technical presentation to diverse audiences
- * Supervised multiple trainees and taught courses at university level
- 
-  \vspace{10pt}
 
 <!-- **Selected Coursework** -->
 

@@ -49,8 +49,7 @@ format:
 
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
-
-    {\bf MS Soil Science}, (2017) {\it The Pennsylvania State University} \hfill State College, PA, USA
+{\bf MS Soil Science}, (2017) {\it The Pennsylvania State University} \hfill State College, PA, USA
     
 \end{large}
 
@@ -83,30 +82,10 @@ format:
 \end{large}
 \parbox{400pt}{
   \begin{itemize}
- \item Modeled age-of-onset for cancer using genetic and clinical data from Norwegian health registries across thousands of subjects, to be integrated into precision medicine platforms in the Norwegian health system.
- \item Developed a software package for individualized risk prediction across platforms (R, Python, Matlab).
- \item Supported collaborative data infrastructure projects integrating multiple patient registries.
- \item Organized the 2024 Oslo Bioinformatics Workshop Week, fostering collaboration among over 100 participants.
-\end{itemize}
-}
-
-\vspace{15pt}
-
-<!--EXPERIENCE : 1ST BULLET -->
-
-\begin{large}
-  {\bf Visiting Scholar}
-  \hfill Sep 2022
-
-  \vspace{-0.17cm}
-
-  Department of Biotechnology and Food Science, NTNU
-  \hfill Trondheim, Norway
-  
-\end{large}
-\parbox{400pt}{
-  \begin{itemize}
- \item Compared recirculating aquaculture systems in Oregon and Trondheim; collected DNA from water and zebrafish for microbiome research.
+ \item Built data pipelines for processing genetic and clinical data from Norwegian health registries across thousands of subjects for integration into precision medicine platforms
+ \item Developed software package for individualized risk prediction to automate testing and validation workflows
+ \item Led collaborative data infrastructure projects integrating multiple patient registries, managing data contracts and quality standards
+ \item Organized the 2024 Oslo Bioinformatics Workshop Week, coordinated technical workflows for over 100 participants
 \end{itemize}
 }
 
@@ -116,19 +95,22 @@ format:
 
 \begin{large}
   
-  {\bf Researcher in Quantitative Genetics}
+  {\bf Researcher in Animal Microbiomes and Aquaculture Systems}
   \hfill Mar 2022 - Dec 2023
   \vspace{-0.17cm}
 
   Postdoctoral scholar, Institute of Ecology and Evolution, University of Oregon
   \hfill Eugene, OR, USA
-  
+
+  Visiting scholar, Department of Biotechnology and Food Science, NTNU
+  \hfill Trondheim, Norway
 \end{large}
 
 \parbox{400pt}{
   \begin{itemize}
-\item Investigated the impact of antibiotic treatment and stocking density on zebrafish fry; managed data processing, conducted analyses, and presented insights to collaborators.
-\item Established data collection protocols, managed and cleaned datasets from dozens of published reports on microbiome heritability in animals, developed and conducted analyses, and presented findings in \textit{Nature Microbiology}.
+\item Built data pipelines to analyze the impact of environmental factors (antibiotic treatment, stocking density) on aquaculture facilities
+\item Conducted comparative analysis of recirculating aquaculture systems between Oregon and Norwegian facilities, established data collection protocols for water quality and fish health monitoring
+\item Managed and processed datasets from dozens of published reports on animal microbiomes, developed and conducted analyses, and presented findings in \textit{Nature Microbiology}
 \end{itemize}
 }
 
@@ -148,10 +130,9 @@ format:
 
 \parbox{400pt}{
   \begin{itemize}
-\item Integrated datasets from collaborators across dozens of field sites in Brazil and Gabon on soil characteristics and methane production.
-\item Designed and conducted laboratory experiments investigating methane production in soil, integrating results with field data for publications in scientific journals and presentations at international meetings.
-\item Insights from laboratory experiments contributed to the award of a \$3 million (USD) grant from the U.S. National Science Foundation.
-\item Supervised students and taught courses in biology and scientific computing.
+\item Integrated datasets from dozens of sites across Brazil and Gabon on soil characteristics, biological data, and methane production with laboratory measurements for environmental monitoring
+\item Developed automated data processing workflows that transformed raw soil and gas measurements into actionable insights for climate research
+\item Created insights from data pipelines that contributed to securing \$3 million USD in funding from the U.S. National Science Foundation
 \end{itemize}
 }
 
@@ -173,8 +154,9 @@ format:
 
 \parbox{400pt}{
   \begin{itemize}
-\item Worked with industry partners to design field trials at research stations and on farms to test strategies for enhancing nutrient management, using R to deliver insights that balanced profitability and environmental impact.
-\item Presented recommendations to industry partners, farmers, and scientists to facilitate informed decision-making.
+\item Collaborated with agricultural industry partners to design and implement data collection systems at research stations and commercial farms
+\item Built R-based analytics pipelines that processed farm data to optimize nutrient management strategies
+\item Delivered data-driven recommendations for farmers and agricultural stakeholders balancing profitability with environmental sustainability
 \end{itemize}
 }
 
@@ -190,34 +172,42 @@ format:
   
 \end{large}
 
-**English**: Excellent skills, both written and spoken (mother tongue)
+**English**: Native speaker with excellent written and verbal communication
 
-**Norwegian**: Basic understanding both written and oral. Completed courses to A2 level and currently working on B1. Continuing to study every day.
+**Norwegian**: Completed formal A1 and A2 courses with structued textbook study through B1/B2. Daily practice in reading, writing, listening, and speaking.
 
 \vspace{30pt}
 
 <!-- SKILLS -->
-\begin{large}{\bf SKILLS \& TOOLS}
+\begin{large}{\bf TECHNICAL SKILLS}
   \vspace{3pt}
   \hrule
   \vspace{10pt}
 \end{large}
 
-**Languages and Tools**
+**Data Engineering \& Analytics**
 
- * **R** - Expert in data processing, modeling, plotting and package development
- * **Python** - Basic proficiency in data processing, scripting and package development.
- * **Collaboration** - Experienced with version control using git, Github.
- * **Computing** - Proficiency in Bash, Unix, cloud computing systems (Slurm)
- * **Workflow management** - Intermediate proficiency in GNU Make
+ * **R** - Expert in data processing, statistical modeling, plotting and package development
+ * **Python** - Proficient in data processing, pipeline automation and package development
+ * **Git/Github** - Experienced with version control and collaborative development
+
+  \vspace{10pt}
+ 
+**Infrastructure \& Tools**
+
+ * **Cloud Computing** - Experienced with cloud platforms and distributed computing systems (Slurm, Tjenester for Sensitive Data)
+ * **Workflow management** - Intermediate proficiency in GNU Make and automated pipeline orchestration
+ * **Docker \& Containerization** - Experience with containerized development environments
+ * **Unix/Bash** - Proficient in command-line tools and shell scripting for automation
 
   \vspace{10pt}
 
-**Management \& Communication**
+**Leadership \& Communication**
 
- * Skilled in communicating both verbal and written to diverse stakeholders
- * Comfortable leading project teams and organizing workshops
- * Supervised multiple trainees and taught courses at multiple levels
+ * Proven ability to translate complex technical concepts for both technical and non-technical stakeholders
+ * Experience leading cross-functional project teams and managing international collaborations
+ * Skilled in workshop organization and technical presentation to diverse audiences
+ * Supervised multiple trainees and taught courses at university level
  
   \vspace{10pt}
 

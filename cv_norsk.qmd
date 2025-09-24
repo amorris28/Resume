@@ -26,7 +26,7 @@ format:
 \begin{huge}\begin{center}{\bf Andrew Hayden Morris}\end{center}\end{huge}
 
 <!-- CONTACT INFO -->
-\begin{center}andrewmorris@mailbox.org ∙ \href{https://ahmorris.org}{Personal Website} ∙ \href{https://github.com/amorris28}{Github} ∙ \href{https://www.linkedin.com/in/ahmorris/}{LinkedIn}
+\begin{center}andrewmorris@mailbox.org ∙ \href{https://ahmorris.org}{Personlig Nettside} ∙ \href{https://github.com/amorris28}{Github} ∙ \href{https://www.linkedin.com/in/ahmorris/}{LinkedIn}
 \end{center}
 <!-- \begin{center}Located in Oslo, Norway -->
 <!-- \end{center} -->
@@ -36,12 +36,12 @@ format:
 
 <!-- EDUCATION: 1ST BULLET -->
 \begin{large}
-  {\bf EDUCATION}
+  {\bf UTDANNING}
   \vspace{3pt}
   \hrule
   \vspace{10pt}
   
-  {\bf PhD Biology}, (2022) {\it University of Oregon} \hfill Eugene, OR, USA
+  {\bf Doktorgrad i biologi}, (2022) {\it University of Oregon} \hfill Eugene, OR, USA
   
 \end{large}
 
@@ -49,7 +49,7 @@ format:
 
 <!-- EDUCATION: 2ND BULLET -->
 \begin{large}
-{\bf MS Soil Science}, (2017) {\it The Pennsylvania State University} \hfill State College, PA, USA
+{\bf Mastergrad i jordvitenskap}, (2017) {\it The Pennsylvania State University} \hfill State College, PA, USA
     
 \end{large}
 
@@ -58,7 +58,7 @@ format:
 <!-- EDUCATION: 3RD BULLET -->
 \begin{large}
 
-{\bf BS Plant Sciences}, (2014) {\it Cornell University} \hfill Ithaca, NY, USA
+{\bf Bachelor i plantevitenskap}, (2014) {\it Cornell University} \hfill Ithaca, NY, USA
 
 \end{large}
 
@@ -66,18 +66,18 @@ format:
 
 <!--EXPERIENCE : 1ST BULLET -->
 
-\begin{large}{\bf RELEVANT EXPERIENCE}
+\begin{large}{\bf RELEVANT ERFARING}
 
   \vspace{3pt}
   \hrule
   \vspace{10pt}
-  {\bf Researcher in Big Data and Precision Medicine}
-  \hfill Mar 2024 - Present
+  {\bf Postdoktor i big data og presisjonsmedisin}
+  \hfill 03.24 - d.d.
 
   \vspace{-0.17cm}
 
-  Postdoctoral Scholar, Centre for Precision Psychiatry, University of Oslo
-  \hfill Oslo, Norway
+  Senter for presisjonspsykiatri, Universitet i Oslo
+  \hfill Oslo, Norge
   
 \end{large}
 \parbox{400pt}{
@@ -95,15 +95,15 @@ format:
 
 \begin{large}
   
-  {\bf Researcher in Animal Microbiomes and Aquaculture Systems}
-  \hfill Mar 2022 - Dec 2023
+  {\bf Postdoktor i dyremikrobiomer og akvakultursystemer}
+  \hfill 03.22 - 12.23
   \vspace{-0.17cm}
 
-  Postdoctoral scholar, Institute of Ecology and Evolution, University of Oregon
+  Institute of Ecology and Evolution, University of Oregon
   \hfill Eugene, OR, USA
 
-  Visiting scholar, Department of Biotechnology and Food Science, NTNU
-  \hfill Trondheim, Norway
+  Institutt for bioteknologi og matvitenskap, NTNU
+  \hfill Trondheim, Norge
 \end{large}
 
 \parbox{400pt}{
@@ -121,7 +121,7 @@ format:
 <!-- EXPERIENCE : 3RD BULLET-->
 
 \begin{large}
-  {\bf PhD Research Fellow} \hfill Aug 2017 - Mar 2022
+  {\bf Ph.d.-stipendiat} \hfill 08.17 - 03.22
 
   \vspace{-0.17cm}
 
@@ -144,7 +144,7 @@ format:
 
 \begin{large}
 
-  {\bf MS Research Fellow} \hfill Aug 2015 - Jul 2017
+  {\bf M.S.-stipendiat} \hfill 08.15 - 07.17
 
   \vspace{-0.17cm}
   
@@ -166,22 +166,22 @@ format:
 {{< pagebreak >}}
 
 <!-- SKILLS -->
-\begin{large}{\bf TECHNICAL SKILLS}
+\begin{large}{\bf TEKNISKE FERDIGHETER}
   \vspace{3pt}
   \hrule
   \vspace{10pt}
 \end{large}
 
-**Statistical Analysis \& Programming**
+**Statistisk analyse og programmering**
 
- * **R** - Expert level: statistical modeling, data manipulation, visualization (ggplot2) and package development
+ * **R** - Ekspertnivå: statistisk modellering, datamanipulering, datavisualisering (ggplot2) og pakkeutvikling
  * **Python** - Intermediate: Proficient in data processing, statistical analysis and scripting
  * **SQL** - Basic proficiency in queries, syntax and database concepts; extensive experience with equivalent data manipulation in R (dplyr)
  * **Statistical Methods** - Extensive experience with regression modeling, mixed-effects models, multivariate analysis, and experimental design
 
   \vspace{10pt}
  
-**Data Visualization \& Communication**
+**Datavisualisering og kommunikasjon**
 
  * **Visualization** - Advanced skills with ggplot2, creating publication-quality graphics and interactive plots
  * **Data Storytelling** - Experienced in translating complex statistical findings for diverse audiences
@@ -189,7 +189,7 @@ format:
 
   \vspace{10pt}
  
-**Data Management \& Collaboration**
+**Datateknikk og samarkbeid**
 
  * **Version Control** -  Experienced with Git and GitHub for collaborative analysis projects
  * **Cloud Platforms** - Experienced with high-performance computing environments (Slurm, Tjenester for Sensitive Data)
@@ -199,16 +199,16 @@ format:
 
 <!-- LANGUAGES -->
 \begin{large}
-{\bf LANGUAGES}
+{\bf SPRÅK}
   \vspace{3pt}
   \hrule
   \vspace{10pt}
   
 \end{large}
 
-**English**: Native speaker with excellent written and verbal communication
+**Engelsk**: Morsmål. Utmerket skriftlig og muntlig.
 
-**Norwegian**: Completed formal A1 and A2 courses with structured textbook study through B1/B2. Daily practice in reading, writing, listening, and speaking.
+**Norsk**: Fullførte kurs i A1/A2. Selvstudium i B1/B2.
 
 
 
